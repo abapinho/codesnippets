@@ -1,4 +1,4 @@
 codesnippets
 ============
 
-Snippets shown in Abapinho
+Snippets shown in Abapinho (www.abapinho.com)
