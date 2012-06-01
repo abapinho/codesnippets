@@ -1,7 +1,7 @@
 REPORT zzz_abapinho_f1_selscreen.
 
-PARAMETERS: p_uname1 TYPE syuname.
-PARAMETERS: p_uname2 TYPE syuname.
+PARAMETERS: p_uname1 TYPE syuname. "Assassino
+PARAMETERS: p_uname2 TYPE syuname. "Vítima
 
 AT SELECTION-SCREEN ON HELP-REQUEST FOR p_uname1.
 
