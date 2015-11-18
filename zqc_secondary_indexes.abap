@@ -2,8 +2,9 @@
 *& Report  ZQC_SECONDARY_INDEXES 
 *&
 *&---------------------------------------------------------------------* 
-*&
-*&
+*& Compare a simple internal table sorted and accessed using BINARY
+*& SEARCH with another one fully specified with two indexes.
+*& The results show that the fully specified table can be over 5x faster
 *&---------------------------------------------------------------------* 
 
 REPORT zqc_secondary_indexes. 
